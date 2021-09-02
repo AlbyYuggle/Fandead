@@ -5,5 +5,5 @@ Game Specifications can be found here: http://2021.battlecode.org/specs/specs.md
 
 Scrimmage Rankings can be found here: http://2021.battlecode.org/rankings (Placed 22nd)
 
-Tournament Placements can be found here: http://2021.battlecode.org/tournaments
+Tournament Placements can be found here: http://2021.battlecode.org/tournaments (Placed 4th/52 in H.S. Tournament)
 
